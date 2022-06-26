@@ -3,3 +3,9 @@ Projeto proposto pela [Dev em dobro](https://www.youtube.com/c/devemdobro) na se
 
 ## Uma tela para selecionar qual seu personagem favorito
 ![Tela de opções](./src/imagens/telahoradeaventura.png)
+
+## ✔️ Tecnologias utilizadas
+
+- ``HTML``
+- ``CSS``
+- ``JavaScript``
